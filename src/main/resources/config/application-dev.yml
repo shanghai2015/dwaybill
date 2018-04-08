@@ -11,6 +11,6 @@ spring:
         # hibernate.cache.region.factory_class: io.github.jhipster.config.jcache.NoDefaultJCacheRegionFactory
    ##配置数据库连接
    datasource:
-      url: jdbc:oracle:thin:@192.168.184.121:1521:tes
-      username: tes
-      password: tes
+      url: jdbc:oracle:thin:@XXXX:1521:XX
+      username: XX
+      password: XX
